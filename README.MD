@@ -1,6 +1,6 @@
 # Архитектура ПО (семинары)
 
-![ClinicAPI](imgs/ClinicAPI.png)
+![ClinicAPI](imgs/AutoShopAPI.png)
 
 -----
 
